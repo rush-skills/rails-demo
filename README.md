@@ -1,24 +1,29 @@
-# README
+# Rails Demo
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A repository created for Rails Girls Delhi Workshop. Works as an aid for the programming workshop.
 
-Things you may want to cover:
+### Commits/Contents
+- Init
+- Making a page and setting up routes (and root)
+- Public folder behaviour
+- Scaffolding
+- Adding bootstrap
+- Adding authentication
 
-* Ruby version
+### License
 
-* System dependencies
+```
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+        Version 2, December 2004
 
-* Configuration
+Copyright (C) 2017 Ankur Singh <ankur13019@iiitd.ac.in>
 
-* Database creation
+Everyone is permitted to copy and distribute verbatim or modified
+copies of this license document, and changing it is allowed as long
+as the name is changed.
 
-* Database initialization
+DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE
+TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+0. You just DO WHAT THE FUCK YOU WANT TO.
+```
